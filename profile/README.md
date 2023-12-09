@@ -9,6 +9,7 @@ Cross Ring Protocol is an innovative project that allows users to seamlessly pro
 - [WebApp](https://github.com/hack-chainlink/WebApp)
 - [ChainLink Functions](https://github.com/hack-chainlink/chainlink-functions-call)   
 - [Smart Contracts](https://github.com/hack-chainlink/contracts)
+- [API](https://github.com/hack-chainlink/API) without Alice's Ring library (closed source for now -> waiting for audit)
 
 ## Table of Contents 📑
 
