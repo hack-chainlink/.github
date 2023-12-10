@@ -70,3 +70,7 @@ Security and privacy are paramount in the Cro on Ethereum project:
 
 - **Litepaper:** You can find our litepaer [here](https://github.com/hack-chainlink/.github/blob/main/CRP%20Lightpaper.pdf)
 - [**Alice's Ring, ring signature protocol*](https://www.cypherlab.fr/alices-ring)
+
+## Note
+
+This project was concurrently developed for two hackathons that occurred simultaneously. Here is the tailored version for the Chainlink - Constellation hackathon and the other is designed for the XRPL-EVM hackathon (https://github.com/hakcthaon-xrpl-evm).
