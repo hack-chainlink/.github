@@ -39,6 +39,11 @@ The Cross Ring Protocol relies on a comprehensive technology stack:
 
 - **Chainlink Functions:** Chainlink Functions are used to fetch real-time Bitcoin, XRPL, Ethereum, Avalanche & Polygon networks state data and index it for use on EVM chains, providing accurate and up-to-date information.
 - **Ring Signatures for Privacy-Preserving Ownership Proofs:** Ring signatures enable users to prove their BTC, ETH, MATIC, AVAX & XRP ownership on Ethereum, Polygon & Avalanche without revealing specific wallet addresses, preserving user's privacy.
+- **IPFS for Decentralized Front-End Hosting:** We employ IPFS to host the project's front-end in a decentralized and trustless manner. This ensures that users can access and interact with the system without relying on a central authority
+- **Covalent for EVM API:** Covalent API is integrated to gather token balances, positions, and historical granular transaction data from EVM chains. This ensures comprehensive and accurate data for cross-chain operations within the Ethereum ecosystem.
+- **Quicknode and Public RPC for EVM RPC:** Quicknode and public RPC are utilized for EVM RPC, providing reliable and efficient access to Ethereum blockchain data. This enhances the project's ability to seamlessly interact with Ethereum-based financial instruments.
+- **Quicknode for XRPL API:** Quicknode is employed for XRPL API to fetch real-time data from the XRP Ledger. This integration ensures accurate and timely information retrieval for cross-chain interactions involving XRP.
+- **Blockcypher for BTC API:** Blockcypher API is integrated for Bitcoin data, providing essential information for cross-chain operations involving Bitcoin. This ensures reliable data retrieval and indexing for secure cross-chain proofs.
 
 ## Security and Privacy 🔐
 
